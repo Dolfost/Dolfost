@@ -3,13 +3,13 @@ _--- "Hello, World!" in ukrainian._
 I am an applied math student from Ukraine.
 ## Things I am interested in  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Neovim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -19,7 +19,7 @@ I am an applied math student from Ukraine.
 ## Literature and sources
 [Stephen Prarta - C++ Primer Plus (6th Edition)][primer]  
 [The GNU C Library Reference Manual][gnu_c_reference]  
-[Dan Gookin - Programmer’s Guide to NCurses][ncurses_guide]  (see [snake-cpp](https://github.com/Dolfost/snake-cpp) for example)
+[Dan Gookin - Programmer’s Guide to NCurses][ncurses_guide]  (see [snake-cpp](https://github.com/Dolfost/snake-cpp) for example)  
 
 [Scott Chacon, Ben Straub - Pro Git][git]  
 [Tobias Gunther - Learn Version Control With Git][version_control]  
@@ -29,8 +29,10 @@ I am an applied math student from Ukraine.
 [Stefan Kottwitz - LaTeX Beginner's Guide][latex_beginner_guide]  
 [Matt Cone - The Markdown Guide][markdown_guide]  
 
+[Narasimha Karumanchi - Data Structures and Algorithms Made Easy][algorithms_and_data_strucntures_made_easy]  
+
 [Drew Neil - Practical Vim, Second Edition][practical_vim]  
-[Drew Neil - Modern Vim, Craft Your Development Environment][vim_devenv] (see [dotfiles/nvim](https://github.com/Dolfost/dotfiles/tree/main/nvim) for example)
+[Drew Neil - Modern Vim, Craft Your Development Environment][vim_devenv] (see [dotfiles/nvim](https://github.com/Dolfost/dotfiles/tree/main/nvim) for example)  
 
 [Roberto Ierusalimschy - Programming in Lua][programing_in_lua]  
 [Lua 5.3 Reference Manual][lua_reference_manual]  
@@ -57,6 +59,8 @@ My beloved, [man][man].
 [lua_reference_manual]: https://www.lua.org/manual/5.3/manual.html
 
 [python_crash_course]: https://www.amazon.com/Python-Crash-Course-2nd-Edition/dp/1593279280
+
+[algorithms_and_data_strucntures_made_easy]: https://www.amazon.com/Data-Structures-Algorithms-Made-Easy/dp/819324527X
 
 [practical_vim]: https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275
 [vim_devenv]: https://www.amazon.com/Modern-Vim-Development-Environment-Neovim/dp/168050262X
