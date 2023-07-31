@@ -30,7 +30,7 @@ I am an applied math student from Ukraine.
 [Matt Cone - The Markdown Guide][markdown_guide]  
 
 [MangoJelly Solutions for FreeCAD - FreeCAD 0.20 For Beginners Tutorials][freecad_yt]  
-[Andrew Gregory - FreeCAD for makers][https://www.raspberrypi.com/news/freecad-for-makers/]  
+[Andrew Gregory - FreeCAD for makers][freecad_for_makers]  
 
 [Narasimha Karumanchi - Data Structures and Algorithms Made Easy][algorithms_and_data_strucntures_made_easy]  
 
