@@ -16,7 +16,7 @@ I am an applied math student from Ukraine.
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
 ![Lineageos](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)
 
-## Literature and sources
+## Literature & sources
 [Stephen Prarta - C++ Primer Plus (6th Edition)][primer]  
 [The GNU C Library Reference Manual][gnu_c_reference]  
 [Dan Gookin - Programmer’s Guide to NCurses][ncurses_guide]  (see [snake-cpp](https://github.com/Dolfost/snake-cpp) for example)  
@@ -28,6 +28,9 @@ I am an applied math student from Ukraine.
 
 [Stefan Kottwitz - LaTeX Beginner's Guide][latex_beginner_guide]  
 [Matt Cone - The Markdown Guide][markdown_guide]  
+
+[MangoJelly Solutions for FreeCAD - FreeCAD 0.20 For Beginners Tutorials][freecad_yt]  
+[Andrew Gregory - FreeCAD for makers][https://www.raspberrypi.com/news/freecad-for-makers/]  
 
 [Narasimha Karumanchi - Data Structures and Algorithms Made Easy][algorithms_and_data_strucntures_made_easy]  
 
@@ -67,6 +70,9 @@ My beloved, [man][man].
 
 [latex_beginner_guide]: https://www.amazon.com/LaTeX-Beginners-Guide-Stefan-Kottwitz-ebook/dp/B0073FTN5I
 [markdown_guide]: https://www.amazon.com/Markdown-Guide-Matt-Cone/dp/B08BW8L1P6
+
+[freecad_yt]: https://www.youtube.com/playlist?list=PLWuyJLVUNtc0UszswD0oD5q4VeWTrK7JC
+[freecad_for_makers]: https://www.raspberrypi.com/news/freecad-for-makers/
 
 [man]: https://en.wikipedia.org/wiki/Man_page
 
