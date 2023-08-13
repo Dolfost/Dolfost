@@ -1,6 +1,6 @@
 # Привіт, світ!
 _- "Hello, World!" in ukrainian._  
-I am an applied math student from Ukraine.
+I am an applied math student.
 ## Things I am interested in  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
@@ -19,12 +19,15 @@ I am an applied math student from Ukraine.
 ## Literature & sources
 [Stephen Prarta - C++ Primer Plus (6th Edition)][primer]  
 [The GNU C Library Reference Manual][gnu_c_reference]  
-[Dan Gookin - Programmer’s Guide to NCurses][ncurses_guide]  (see [snake-cpp](https://github.com/Dolfost/snake-cpp) for example)  
+[Dan Gookin - Programmer’s Guide to NCurses][ncurses_guide]
 
 [Scott Chacon, Ben Straub - Pro Git][git]  
 [Tobias Gunther - Learn Version Control With Git][version_control]  
 
+[Oliver Kiddle, Jerry Peek - From Bash to Z Shell][from_bash_to_z_shell]  
 [Chet Ramey - Bash Reference Manual][bash_reference]  
+[Daniel J. Barrett - SSH The Secure Shell The Definitive Guide][ssh_the_secure_shell]  
+[Craig Scott - Professional Cmake][professional_cmake]  
 
 [Stefan Kottwitz - LaTeX Beginner's Guide][latex_beginner_guide]  
 [Matt Cone - The Markdown Guide][markdown_guide]  
@@ -35,7 +38,7 @@ I am an applied math student from Ukraine.
 [Narasimha Karumanchi - Data Structures and Algorithms Made Easy][algorithms_and_data_strucntures_made_easy]  
 
 [Drew Neil - Practical Vim, Second Edition][practical_vim]  
-[Drew Neil - Modern Vim, Craft Your Development Environment][vim_devenv] (see [dotfiles/nvim](https://github.com/Dolfost/dotfiles/tree/main/nvim) for example)  
+[Drew Neil - Modern Vim, Craft Your Development Environment][vim_devenv]
 
 [Roberto Ierusalimschy - Programming in Lua][programing_in_lua]  
 [Lua 5.3 Reference Manual][lua_reference_manual]  
@@ -57,6 +60,9 @@ My beloved, [man][man].
 [csharp_in_a_nutshell]: https://www.amazon.com/C-9-0-Nutshell-Definitive-Reference/dp/1098100964
 
 [bash_reference]: https://www.gnu.org/software/bash/manual/bash.pdf
+[from_bash_to_z_shell]: https://www.amazon.com/Bash-Shell-Conquering-Command-Line/dp/1590593766
+[ssh_the_secure_shell]: https://www.amazon.com/SSH-Secure-Shell-Definitive-Guide/dp/0596008953
+[professional_cmake]: https://crascit.com/professional-cmake/
 
 [programing_in_lua]: https://www.amazon.com/Programming-Lua-Fourth-Roberto-Ierusalimschy/dp/8590379868
 [lua_reference_manual]: https://www.lua.org/manual/5.3/manual.html
