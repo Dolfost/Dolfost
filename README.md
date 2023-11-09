@@ -3,10 +3,11 @@ _- "Hello, World!" in ukrainian._
 I am an applied math student.
 ## Things I am interested in  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -37,8 +38,11 @@ I am an applied math student.
 
 [Narasimha Karumanchi - Data Structures and Algorithms Made Easy][algorithms_and_data_strucntures_made_easy]  
 
+[Lee Zhi Eng - Hands-On GUI Programming with C++ and Qt5][lee_zhi_eng_qt5]
+
 [Drew Neil - Practical Vim, Second Edition][practical_vim]  
-[Drew Neil - Modern Vim, Craft Your Development Environment][vim_devenv]
+[Drew Neil - Modern Vim, Craft Your Development Environment][vim_devenv]  
+[Brian P. Hogan - tmux2 Productive Mouse-free Development][brian_p_hogan_tmux]
 
 [Roberto Ierusalimschy - Programming in Lua][programing_in_lua]  
 [Lua 5.3 Reference Manual][lua_reference_manual]  
@@ -71,8 +75,11 @@ My beloved, [man][man].
 
 [algorithms_and_data_strucntures_made_easy]: https://www.amazon.com/Data-Structures-Algorithms-Made-Easy/dp/819324527X
 
+[lee_zhi_eng_qt5]: https://www.amazon.com/Hands-GUI-Programming-Qt5-cross-platform/dp/1788397827
+
 [practical_vim]: https://www.amazon.com/Practical-Vim-Edit-Speed-Thought/dp/1680501275
-[vim_devenv]: https://www.amazon.com/Modern-Vim-Development-Environment-Neovim/dp/168050262X
+[vim_devenv]: https://www.amazon.com/Modern-Vim-Development-Environment-Neovim/dp/168050262X 
+[brian_p_hogan_tmux]: https://www.amazon.com/tmux-2-Productive-Mouse-Free-Development/dp/1680502212
 
 [latex_beginner_guide]: https://www.amazon.com/LaTeX-Beginners-Guide-Stefan-Kottwitz-ebook/dp/B0073FTN5I
 [markdown_guide]: https://www.amazon.com/Markdown-Guide-Matt-Cone/dp/B08BW8L1P6
