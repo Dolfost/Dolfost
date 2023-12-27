@@ -83,7 +83,7 @@ My beloved, [man][man].
 [brian_p_hogan_tmux]: https://www.amazon.com/tmux-2-Productive-Mouse-Free-Development/dp/1680502212
 
 [latex_beginner_guide]: https://www.amazon.com/LaTeX-Beginners-Guide-Stefan-Kottwitz-ebook/dp/B0073FTN5I
-[not_so_short_introduction_to_latex]: https://tobi.oetiker.ch/lshort
+[not_so_short_introduction_to_latex]: https://tobi.oetiker.ch/lshort/lshort.pdf
 [markdown_guide]: https://www.amazon.com/Markdown-Guide-Matt-Cone/dp/B08BW8L1P6
 
 [freecad_yt]: https://www.youtube.com/playlist?list=PLWuyJLVUNtc0UszswD0oD5q4VeWTrK7JC
