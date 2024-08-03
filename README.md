@@ -1,6 +1,5 @@
 # Привіт, світ!
 _- "Hello, World!" in ukrainian._  
-I am an applied math student.
 ## Things I am interested in  
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -45,8 +44,6 @@ I am an applied math student.
 [Roberto Ierusalimschy - Programming in Lua][programing_in_lua]  
 [Lua 5.3 Reference Manual][lua_reference_manual]  
 
-[Joseph Albahari - Csharp 9.0 in a nutshell][csharp_in_a_nutshell]  
-
 [Eric Matthes - Python crash course][python_crash_course]  
 
 My beloved, [man][man].
@@ -58,8 +55,6 @@ My beloved, [man][man].
 [primer]: https://www.amazon.com/Primer-Plus-6th-Developers-Library/dp/0321776402
 [gnu_c_reference]: https://www.gnu.org/software/libc/manual/pdf/libc.pdf
 [ncurses_guide]: https://www.amazon.com/Programmers-Guide-NCurses-Dan-Gookin/dp/0470107596
-
-[csharp_in_a_nutshell]: https://www.amazon.com/C-9-0-Nutshell-Definitive-Reference/dp/1098100964
 
 [bash_reference]: https://www.gnu.org/software/bash/manual/bash.pdf
 [from_bash_to_z_shell]: https://www.amazon.com/Bash-Shell-Conquering-Command-Line/dp/1590593766
