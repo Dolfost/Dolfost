@@ -46,6 +46,8 @@ _- "Hello, World!" in ukrainian._
 
 [Eric Matthes - Python crash course][python_crash_course]  
 
+[Dimitri van Heesch - Doxygen manual][doxygen]
+
 My beloved, [man][man].
 
 
@@ -82,6 +84,9 @@ My beloved, [man][man].
 [freecad_for_makers]: https://www.raspberrypi.com/news/freecad-for-makers/
 
 [man]: https://en.wikipedia.org/wiki/Man_page
+
+[doxygen]: https://www.doxygen.nl/manual/index.html
+
 
 <!--
 **Dolfost/Dolfost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
