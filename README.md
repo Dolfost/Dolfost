@@ -30,6 +30,8 @@ _- "Hello, World!" in ukrainian._
 [Tobias Oetiker - The Not So Short Introduction to LATEX][not_so_short_introduction_to_latex]  
 [Matt Cone - The Markdown Guide][markdown_guide]  
 
+[Brian Ward - How Linux Works][how_linux_works]
+
 [MangoJelly Solutions for FreeCAD - FreeCAD 0.20 For Beginners Tutorials][freecad_yt]  
 [Andrew Gregory - FreeCAD for makers][freecad_for_makers]  
 
@@ -79,6 +81,8 @@ My beloved, [man][man].
 [latex_beginner_guide]: https://www.amazon.com/LaTeX-Beginners-Guide-Stefan-Kottwitz-ebook/dp/B0073FTN5I
 [not_so_short_introduction_to_latex]: https://tobi.oetiker.ch/lshort/lshort.pdf
 [markdown_guide]: https://www.amazon.com/Markdown-Guide-Matt-Cone/dp/B08BW8L1P6
+
+[how_linux_works]: https://www.amazon.com/How-Linux-Works-Brian-Ward/dp/1718500408
 
 [freecad_yt]: https://www.youtube.com/playlist?list=PLWuyJLVUNtc0UszswD0oD5q4VeWTrK7JC
 [freecad_for_makers]: https://www.raspberrypi.com/news/freecad-for-makers/
