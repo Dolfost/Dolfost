@@ -16,7 +16,11 @@ _- "Hello, World!" in ukrainian._
 ## Literature & sources
 [Stephen Prarta - C++ Primer Plus (6th Edition)][primer]  
 [The GNU C Library Reference Manual][gnu_c_reference]  
-[Dan Gookin - Programmer’s Guide to NCurses][ncurses_guide]
+[Dan Gookin - Programmer’s Guide to NCurses][ncurses_guide]  
+
+[Jan Haller - SFML Game Development][sfml]  
+[Greg Roelofs - PNG, The Definitive Guide][png]  
+[Fedor G. Pikus - Hands-On Design Patterns with C++, 2ed][cppdesign]  
 
 [Scott Chacon, Ben Straub - Pro Git][git]  
 [Tobias Gunther - Learn Version Control With Git][version_control]  
@@ -30,25 +34,28 @@ _- "Hello, World!" in ukrainian._
 [Tobias Oetiker - The Not So Short Introduction to LATEX][not_so_short_introduction_to_latex]  
 [Matt Cone - The Markdown Guide][markdown_guide]  
 
-[Brian Ward - How Linux Works][how_linux_works]
+[Brian Ward - How Linux Works][how_linux_works]  
+
+[Elliot Williams - Make - AVR Programming][avr]  
+[Paul Scherz - Practical Electronics for Inventors][electronics]  
 
 [MangoJelly Solutions for FreeCAD - FreeCAD 0.20 For Beginners Tutorials][freecad_yt]  
 [Andrew Gregory - FreeCAD for makers][freecad_for_makers]  
 
 [Narasimha Karumanchi - Data Structures and Algorithms Made Easy][algorithms_and_data_strucntures_made_easy]  
 
-[Lee Zhi Eng - Hands-On GUI Programming with C++ and Qt5][lee_zhi_eng_qt5]
+[Lee Zhi Eng - Hands-On GUI Programming with C++ and Qt5][lee_zhi_eng_qt5]  
 
 [Drew Neil - Practical Vim, Second Edition][practical_vim]  
 [Drew Neil - Modern Vim, Craft Your Development Environment][vim_devenv]  
-[Brian P. Hogan - tmux2 Productive Mouse-free Development][brian_p_hogan_tmux]
+[Brian P. Hogan - tmux2 Productive Mouse-free Development][brian_p_hogan_tmux]  
 
 [Roberto Ierusalimschy - Programming in Lua][programing_in_lua]  
 [Lua 5.3 Reference Manual][lua_reference_manual]  
 
 [Eric Matthes - Python crash course][python_crash_course]  
 
-[Dimitri van Heesch - Doxygen manual][doxygen]
+[Dimitri van Heesch - Doxygen manual][doxygen]  
 
 My beloved, [man][man].
 
@@ -90,7 +97,12 @@ My beloved, [man][man].
 [man]: https://en.wikipedia.org/wiki/Man_page
 
 [doxygen]: https://www.doxygen.nl/manual/index.html
+[sfml]: https://www.amazon.com/SFML-Game-Development-Jan-Haller/dp/1849696845
+[cppdesign]: https://www.amazon.com/Hands-Design-Patterns-reusable-maintainable/dp/1788832566
+[png]: http://www.libpng.org/pub/png/book/
 
+[avr]: https://www.amazon.com/AVR-Programming-Learning-Software-Technology/dp/1449355781
+[electronics]: https://www.amazon.com/Practical-Electronics-Inventors-Fourth-Scherz/dp/1259587541
 
 <!--
 **Dolfost/Dolfost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
